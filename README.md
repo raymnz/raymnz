@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raiane Menezes
+- I’m a Tech Recruiter 
+- 🌱 I’m currently learning C# programming language 
+- 📫 https://www.linkedin.com/in/raiane-menezes-26a380111/ 
